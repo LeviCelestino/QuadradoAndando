@@ -1,0 +1,13 @@
+.quadrado{
+    background-color: bisque;
+    width: 500px;
+    height: 500px;
+    position: relative;
+}
+.quadradoMenor{
+    background-color: red;
+    width: 20px;
+    height: 20px;
+    position: absolute;
+    
+}
